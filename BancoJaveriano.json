@@ -1,0 +1,31 @@
+{
+    "clientes": [
+        {
+            "Direccion": "calle 1",
+            "Nombre": "Valerie",
+            "idCliente": 1
+        },
+        {
+            "Direccion": "Calle 2",
+            "Nombre": "Esteban",
+            "idCliente": 2
+        }
+    ],
+    "cuentas": [
+        {
+            "Numero": 100,
+            "Saldo": 2000,
+            "Tipo": "Ahorros",
+            "idCliente": 1,
+            "tasaInteres": 2.0
+        },
+        {
+            "Numero": 101,
+            "Saldo": 1800,
+            "Tipo": "Corriente",
+            "idCliente": 2,
+            "limiteSobregiro": 500
+        }
+    ],
+    "nombre": "Banco Javeriano"
+}

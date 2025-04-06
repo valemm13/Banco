@@ -1,0 +1,3 @@
+C:/Users/valer/Desktop/CLionProjects/Banco/cmake-build-debug/CMakeFiles/Banco.dir
+C:/Users/valer/Desktop/CLionProjects/Banco/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valer/Desktop/CLionProjects/Banco/cmake-build-debug/CMakeFiles/rebuild_cache.dir

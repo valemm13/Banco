@@ -1,0 +1,23 @@
+# ninja log v6
+17	3225	7656221949439339	CMakeFiles/Banco.dir/Banco.cpp.obj	dfbe4543eda271ea
+4	1532	7656213126166131	CMakeFiles/Banco.dir/main.cpp.obj	e62c1a628d5d203a
+3	1970	7656218157353922	CMakeFiles/Banco.dir/Cliente.cpp.obj	13fa71547d32d15
+6	2390	7656221949337190	CMakeFiles/Banco.dir/Cuenta.cpp.obj	bd9ea88e57694d49
+19	2023	7656223318541131	CMakeFiles/Banco.dir/CuentaCorriente.cpp.obj	ae60e45fbf69036c
+7	2055	7656223318431220	CMakeFiles/Banco.dir/CuentaAhorros.cpp.obj	4ea5f88759bdd335
+2055	3948	7656223338908241	Banco.exe	6ad5cde83b259c52
+4	2928	7656227943450373	CMakeFiles/Banco.dir/Banco.cpp.obj	dfbe4543eda271ea
+2930	4891	7656227972704957	Banco.exe	6ad5cde83b259c52
+4	1930	7656228382824771	CMakeFiles/Banco.dir/Cliente.cpp.obj	13fa71547d32d15
+14	2982	7656228382928616	CMakeFiles/Banco.dir/Banco.cpp.obj	dfbe4543eda271ea
+2982	4893	7656228412609284	Banco.exe	6ad5cde83b259c52
+34	1577	7656616698304183	CMakeFiles/Banco.dir/main.cpp.obj	e62c1a628d5d203a
+74	2098	7656616698708134	CMakeFiles/Banco.dir/CuentaCorriente.cpp.obj	ae60e45fbf69036c
+62	2998	7656616698584366	CMakeFiles/Banco.dir/Banco.cpp.obj	dfbe4543eda271ea
+2998	4953	7656616727938981	Banco.exe	6ad5cde83b259c52
+5	1523	7656618019161380	CMakeFiles/Banco.dir/main.cpp.obj	e62c1a628d5d203a
+1523	3468	7656618034343929	Banco.exe	6ad5cde83b259c52
+5	3261	7656712445674624	CMakeFiles/Banco.dir/Banco.cpp.obj	dfbe4543eda271ea
+3262	5287	7656712478249703	Banco.exe	6ad5cde83b259c52
+4	3052	7656715448127818	CMakeFiles/Banco.dir/Banco.cpp.obj	dfbe4543eda271ea
+3052	5053	7656715478612471	Banco.exe	6ad5cde83b259c52
